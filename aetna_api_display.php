@@ -1,4 +1,3 @@
-
 <!--
 REQUEST URI
 GET https://api.carepass.com/good-rx-api/drugprices/low?
@@ -111,7 +110,7 @@ Sample response body
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="main.html"><img src="img/trophy_single.png" alt="MyBestRx" title="MyBestRx" width="30" height="30" /></a>
+          <a class="brand" href="index.html"><img src="img/trophy_single.png" alt="MyBestRx" title="MyBestRx" width="30" height="30" /></a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="dropdown">
