@@ -1,0 +1,20 @@
+[
+    {
+        "brand": [
+            "klonopin"
+        ],
+        "generic": [
+            "clonazepam"
+        ],
+        "display": "Klonopin (clonazepam)",
+        "form": "tablet",
+        "dosage": "2mg",
+        "quantity": "30",
+        "price": [
+            "100.3912"
+        ],
+        "url": "https://www.goodrx.com/klonopin?grx_ref=mobile",
+        "manufacturer": "brand",
+        "mobileUrl": "http://m.goodrx.com/?grx_ref=mobile#drug/klonopin/tablet"
+    }
+]
